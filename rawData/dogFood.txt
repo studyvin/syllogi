@@ -1,0 +1,17 @@
+You are hired as a statistical consultant for a dog food manufacturing
+company. The engineers who designed the company's dog food would like
+to know how it compares to the current top selling dog food brands on
+the market? To answer this question, 25 puppies of the same breed and
+age (within a week of each other) were chosen for this study. Five
+puppies were assigned to each dog food type. After 4 weeks the percent
+of weight gained for each puppy was determined. The enumeration is in the
+dogFood.RDS file. The variable \gain is the percent
+weight gain.
+
+Dog food types:
+1 = Other: top seller 
+2 = Our dog food 
+3 = Other: second best seller 
+4 = Other: third best seller 
+5 = Other: fourth best seller 
+
