@@ -1,0 +1,9 @@
+﻿lymphocyticInfiltration,gender,osteoblasticPathology,diseaseFreeYes,diseaseFreeNo
+high,F,no,3,0
+high,F,yes,2,0
+high,M,no,4,0
+high,M,yes,1,0
+low,F,no,5,0
+low,F,yes,3,2
+low,M,no,5,4
+low,M,yes,6,11

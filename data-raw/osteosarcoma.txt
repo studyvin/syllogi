@@ -1,0 +1,5 @@
+A study of nonmetastatic osteosarcoma was done.
+They recorded if the patient was disease free after three years.
+They recorded the gender, level of lymphocytic infiltration, and if there is
+osteoblastic pathology or not.
+Can the probability of being desease free after 3 years be predicted? 

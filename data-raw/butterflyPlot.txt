@@ -1,0 +1,4 @@
+Plots ranging in size from 1ha to 1000ha, were left
+  uncut in a larger landscape of logged tropical rainforest. 
+  In each  plot the number of unique butterfly species was recorded. 
+  What is  the relationship between plot size and unique species count? 

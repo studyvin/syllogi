@@ -1,14 +1,14 @@
 Package: syllogi
 Type: Package
-Title: Data Sets For Teaching
+Title: Collection of data sets for teaching purposes
 Version: 1.0.0
-Date: 2023-07-5
+Date: 2023-07-06
 Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
-                     email = "jared.studyvin@gmail.com"))
-Author: Jared Studyvin [aut, cre],
-Depends: R (>= 4.0.0)
-Imports: 
-Maintainer: Jared Studyvin <jared.studyvin@gmail.com>
-Description: Collection (syllogi in greek) of real and fictitious data set for teaching purposes. 
+                     email = "studyvinstat@gmail.com"))
+Author: Jared Studyvin [aut, cre]
+Depends: R (>= 3.6.0)
+Imports:
+Maintainer: Jared Studyvin <studyvinstat@gmail.com>
+Description: Collection (syllogi in greek) of real and fictitious data sets for teaching purposes. 
 License: GNU General Public License
 RoxygenNote: 7.2.3
