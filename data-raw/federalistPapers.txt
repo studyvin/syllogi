@@ -1,0 +1,4 @@
+Mosterller and Wallace (1964) recorded the frequency of use of various words in selected articles by Alexander Hamilton and James Madison.
+The articles were divided in blocks of about 200 words.
+They recorded the count of various words.
+Provided is the count for the word 'may'.
