@@ -7,12 +7,12 @@
 \format{
 The data frame has 50 rows and 6 variables:
 \describe{
-  \item{id}{Patient's ID number.}
+  \item{id}{ID number of each patient.}
 \item{age}{The age of the patient in years.}
 \item{length}{The duration or time in months the patient has had breast cancer.}
 \item{serving}{The number of servings the patient eats of fruits and vegetables in a typical day.}
 \item{familyHistory}{Does or did any blood relatives (i.e. mother, grandmother, aunt, etc.) have or had breast cancer?}
-  \item{stage}{The stage of the cancer: 0-non-invasive to IV-very invasive or “advanced” cancer.}
+  \item{stage}{The stage of the cancer: 0-non-invasive to IV-very invasive or "advanced" cancer.}
 }
 }
 \usage{
