@@ -47,7 +47,8 @@
 
 
 ## nutritionCancer <- read.csv(file.path(readPath, dataFile))
-
+## nutritionCancer$stage <- gsub(' ', '', nutritionCancer$stage)
+## nutritionCancer$familyHistory <- gsub(' ', '', nutritionCancer$familyHistory)
 
 ## save(nutritionCancer, file=file.path(writePath, writeFile))
 
