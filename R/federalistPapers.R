@@ -52,3 +52,11 @@
 
 
 
+fed <- jsonlite::stream_in(file("https://ptrckprry.com/course/ssd/data/federalist.json"))
+
+head(fed[,-2])
+names(fed)
+
+
+
+
