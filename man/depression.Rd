@@ -47,4 +47,4 @@ This is a fictious dataset useful for teaching how to use and interpret linear s
 \references{
 fictitious data set
 }
-\keyword{data#'}
+\keyword{data}

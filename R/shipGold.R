@@ -21,7 +21,7 @@
 #' @format The data frame has 20 rows (a ship) and 2 variables:
 #' \describe{
 #'   \item{shipSize}{Size of the ship measured in inches on the horizon.}
-#'   \item{wordCount}{Amount of gold pieces on the ship.} 
+#'   \item{gold}{Amount of gold pieces on the ship.} 
 #' }
 #'
 #' @references Fictitious data set
@@ -52,4 +52,5 @@
 ## save(shipGold, file=file.path(writePath, writeFile))
 
 ## list.files(writePath)
+
 

@@ -9,7 +9,7 @@
 #' @references fictitious data set
 #'
 #' @docType data
-#' @keywords data#'
+#' @keywords data
 #'
 #' @details This is a fictious dataset useful for teaching how to use and interpret linear statistical models. The variables are:
 #' \describe{

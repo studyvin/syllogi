@@ -8,13 +8,17 @@
 An object of class \code{data.frame} with 60 rows and 7 columns.
 }
 \usage{
-data(depression)
+data(genericData)
 }
 \description{
 Generic data set with four ratio predictors (X1,X2,X3,X4), two categorical predictors (A,B) and one ratio response variable (Y).
 }
 \details{
 This is a fictious dataset useful for teaching how to use and interpret linear statistical models.
+}
+\examples{
+data("genericData", package='syllogi')
+str(genericData)
 }
 \references{
 fictitious data set
