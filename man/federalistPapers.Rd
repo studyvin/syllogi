@@ -3,33 +3,39 @@
 \docType{data}
 \name{federalistPapers}
 \alias{federalistPapers}
-\title{Word count of "may" in Federalist Papers}
+\title{Federalist Papers}
 \format{
-The data frame has 509 rows (a block of words) and 2 variables:
+The list has 86 elements, each element is a list with 2 elements.
+The paper element is the text of the paper. The meta element is a data frame:
 \describe{
-  \item{author}{Hamilton or Madison.}
-  \item{wordCount}{Count of the word "may" within that block.} 
+  \item{number}{Paper number.}
+  \item{author}{Author of the paper.}
+  \item{title}{Title of the paper.}
+  \item{journal}{Newpaper that published the paper.}
+  \item{date}{Date of publication.}
 }
 }
 \usage{
 data(federalistPapers)
 }
 \description{
-Data.frame
+List of the Federalist Papers
 }
 \details{
-Mosterller and Wallace (1964) recorded the frequency of use of various words in selected articles by Alexander Hamilton and James Madison.
-The articles were divided in blocks of about 200 words.
-They recorded the count of various words.
-Provided is the count for the word 'may'.
+The Project Gutenberg version of the Federalist Papers attributes
+paper No. 58 to Madison, but Mosteller and Wallace consider this
+paper to have disputed authorship. Thus, this version considers No. 58
+authorship to be disputed.
+
+The Project Gutenberg has two slightly different versions of No. 70, both included.
 }
 \examples{
 data("federalistPapers", package='syllogi')
 str(federalistPapers)
 }
 \references{
-Mosteller, F. and D. L. Wallace. Inference and Disputed Authorship: The Federalist. Reading, MA., 1964
+https://www.gutenberg.org/ebooks/18
 
-Gelman, A., Carlin, J.B., Stern, H.S., Dunson, D.B., Vehtari, A., & Rubin, D.B. (2013). Bayesian Data Analysis (3rd ed.). Chapman and Hall/CRC. https://doi.org/10.1201/b16018
+Mosteller, F. and D. L. Wallace. Inference and Disputed Authorship: The Federalist. Reading, MA., 1964
 }
 \keyword{data}
