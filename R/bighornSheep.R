@@ -2,25 +2,29 @@
 #'
 #' @title 
 #'
-#' @description A survey conducted on high school seniors by the National Center of Education Statistics. 
+#' @description 
 #'
-#' @usage data(schoolProgram)
+#' @usage data(bighornSheep)
 #'
-#' @details Two hundred students were randomly selected from the whole cohort in the survey. 
+#' @details 
 #'
-#' @format The data frame has 200 rows (a student) and 11 variables:
+#' @format The data frame has 8000 rows (a geographic sample unit) and 15 variables:
 #' \describe{
-#'   \item{id}{Student ID.}
-#'   \item{gender}{Student's gender.}
-#'   \item{race}{Student's race.}
-#'   \item{ses}{Socio economic status of the student's family, with levels low, middle, and high.}
-#'   \item{schtype}{ Type of school: public or private.}
-#'   \item{prog}{Type of program the student wants to attend after high school.}
-#'   \item{read}{Student's standardized reading score.}
-#'   \item{write}{Student's standardized writing score.}
-#'   \item{math}{Student's standardized math score.}
-#'   \item{science}{Student's standardized science score}
-#'   \item{scost}{Student's standardized social studies score}
+#'   \item{sampleUnit}{}
+#'   \item{count}{}
+#'   \item{slope}{}
+#'   \item{elev}{}
+#'   \item{distBurn}{}
+#'   \item{distRoad}{}
+#'   \item{distEscp}{}
+#'   \item{distWater}{}
+#'   \item{north}{}
+#'   \item{east}{}
+#'   \item{south}{}
+#'   \item{west}{}
+#' \item{aspect}{}
+#' \item{fire}{}
+#' \item{season}{}
 #'  }
 #' 
 #' @references https://www.openintro.org/data/index.php?data=hsb2
@@ -37,25 +41,25 @@
 
 
 
-basePath <- "~/projects/syllogi"
-readPath <- file.path(basePath,'data-raw')
-writePath <- file.path(basePath,'data')
+## basePath <- "~/projects/syllogi"
+## readPath <- file.path(basePath,'data-raw')
+## writePath <- file.path(basePath,'data')
+## writeFile <- 'bighornSheep.RData'
+
+## load(file.path(readPath, 'Semino_BHS_RFU.RData'))
 
 
-load(file.path(readPath, 'Semino_BHS_RFU.RData'))
+## Template_Summer$season <- 'summer'
+## Template_Winter$season <- 'winter'
 
-head(PostPoints_Summer)
-head(PostPoints_Winter)
-head(PrePoints_Summer)
-head(PrePoints_Winter)
-head(SampleUnits)
-head(StudyArea)
-head(Template_Summer)
-head(Template_Winter)
+## bighornSheep <- rbind(Template_Summer, Template_Winter)
+## head(bighornSheep)
 
+## names(bighornSheep) <- snakecase::to_lower_camel_case(names(bighornSheep))
 
+## names(bighornSheep)[2] <- 'count'
+## names(bighornSheep)[14] <- 'fire'
 
+## names(bighornSheep)
+## save(bighornSheep,file=file.path(writePath,writeFile)) 
 
-writeFile <- 'bighornSheep.RData'
-
-## save(schoolProgram,file=file.path(writePath,writeFile)) 
