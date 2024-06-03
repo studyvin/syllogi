@@ -1,8 +1,8 @@
 Package: syllogi
 Type: Package
 Title: Collection of Data Sets for Teaching Purposes
-Version: 1.0.2
-Date: 2024-01-01
+Version: 1.0.3
+Date: 2024-06-03
 Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
                      email = "studyvinstat@gmail.com"))
 Author: Jared Studyvin [aut, cre]
@@ -13,4 +13,5 @@ Description: Collection (syllogi in greek) of real and fictitious data sets for 
 	     The datasets were manually entered by the author from the respective references as listed in the individual dataset documentation.
 	     The fictions datasets are the creation of the author, that he has found useful for teaching statistics. 
 License: Apache License (>= 2)
-RoxygenNote: 7.2.3
+Encoding: UTF-8
+RoxygenNote: 7.3.1

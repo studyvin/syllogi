@@ -1,0 +1,5 @@
+A study investigated the primary diet of aligators.
+219 aligators were caught from four different lakes in Florida.
+The variable is interest is the food type from the aligators stomach.
+It was recorded as either fish, invertebrate, reptile, bird, or other.
+The researchers also recorded the gender and size (<=2.3m or >2.3m). 

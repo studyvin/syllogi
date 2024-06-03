@@ -1,0 +1,17 @@
+﻿lake,gender,size,fish,invertebrate,reptile,bird,other
+hancock,M,<=2.3m,7,1,0,0,5
+hancock,M,>2.3m,4,0,0,1,2
+hancock,F,<=2.3m,16,3,2,2,3
+hancock,F,>2.3m,3,0,1,2,3
+oklawaha,M,<=2.3m,2,2,0,0,1
+oklawaha,M,>2.3m,13,7,6,0,0
+oklawaha,F,<=2.3m,3,9,1,0,2
+oklawaha,F,>2.3m,0,1,0,1,0
+trafford,M,<=2.3m,3,7,1,0,1
+trafford,M,>2.3m,8,6,6,3,5
+trafford,F,<=2.3m,2,4,1,1,4
+trafford,F,>2.3m,0,1,0,0,0
+george,M,<=2.3m,13,10,0,2,2
+george,M,>2.3m,9,0,0,1,2
+george,F,<=2.3m,3,9,1,0,1
+george,F,>2.3m,8,1,0,0,1

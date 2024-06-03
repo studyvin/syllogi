@@ -1,0 +1,2 @@
+Analysis of Categorical Data with R
+page 258, problem 19

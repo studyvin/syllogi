@@ -1,0 +1,4 @@
+Twelve stores in the Fort Collins area have asked us to develop a prediction model for their annual gross sales (sales; measured in $1000 units).
+They would like to know if it is possible to predict the amount of their sales by knowing how much they spend annually on advertising (advert; measured in $1000 units) and the quality of their store’s typical product (quality; measure on a scale from 0 = very poor quality to 25 = exceptional quality).
+
+
