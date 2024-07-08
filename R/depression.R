@@ -2,6 +2,8 @@
 #'
 #' @title Self Reported Depression
 #'
+#' @docType data
+#'
 #' @description Self reported level of depression and other associated metrics.
 #'
 #' @usage data(depression)

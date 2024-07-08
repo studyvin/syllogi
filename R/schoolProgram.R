@@ -2,6 +2,8 @@
 #'
 #' @title High School and Beyond Survey
 #'
+#' @docType data
+#'
 #' @description A survey conducted on high school seniors by the National Center of Education Statistics. 
 #'
 #' @usage data(schoolProgram)

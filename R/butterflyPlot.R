@@ -2,6 +2,8 @@
 #'
 #' @title Fictitious Data Set of Butterfly Counts
 #'
+#' @docType data
+#' 
 #' @description Data.frame
 #'
 #' @usage data(butterflyPlot)

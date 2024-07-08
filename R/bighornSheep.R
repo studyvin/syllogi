@@ -3,6 +3,8 @@
 #'
 #' @title Bighorn Sheep
 #'
+#' @docType data
+#' 
 #' @description Bighorn Sheep data
 #'
 #' @usage data(bighornSheep)

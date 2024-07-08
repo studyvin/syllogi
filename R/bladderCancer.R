@@ -2,6 +2,8 @@
 #'
 #' @title Study of Recurrence of Bladder Cancer
 #'
+#' @docType data
+#'
 #' @description Data.frame
 #'
 #' @usage data(bladderCancer)

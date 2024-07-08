@@ -2,6 +2,8 @@
 #'
 #' @title Federalist Papers
 #'
+#' @docType data
+#'
 #' @description List of the Federalist Papers 
 #'
 #' @usage data(federalistPapers)

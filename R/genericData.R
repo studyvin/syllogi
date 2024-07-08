@@ -2,6 +2,8 @@
 #'
 #' @title Generic Data Set
 #'
+#' @docType data
+#'
 #' @description Generic data set with four ratio predictors (X1,X2,X3,X4), two categorical predictors (A,B) and one ratio response variable (Y).
 #'
 #' @usage data(genericData)

@@ -4,6 +4,8 @@
 #'
 #' @description Data.frame
 #'
+#' @docType data
+#'
 #' @usage data(annualSales)
 #'
 #' @details

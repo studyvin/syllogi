@@ -2,6 +2,8 @@
 #'
 #' @title Political Ideology
 #'
+#' @docType data
+#' 
 #' @description Data.frame
 #'
 #' @usage data(politicalIdeology)

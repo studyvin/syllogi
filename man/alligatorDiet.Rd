@@ -7,8 +7,8 @@
 \format{
 The data frame has 16 rows and 8 variables:
 \describe{
-  \item{lake}{Lake in Florida of the capture of the aligator.}
-  \item{gender}{Female (F) or Male (M).}
+\item{lake}{Lake in Florida of the capture of the aligator.}
+\item{gender}{Female (F) or Male (M).}
 \item{size}{small (<=2.3m) or big (> 2.3m).}
 \item{fish}{Number of alligators with a primary stomach contents of fish.}
 \item{invertabrate}{Number of alligators with a primary stomach contents of invertebrate.}
