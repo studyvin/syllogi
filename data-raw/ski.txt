@@ -1,0 +1,3 @@
+miles = miles of skiable terrain
+capacity = number of vistors that could be taken per hour from the base of the mountain to the top via the resorts various lifts
+vistors = number of tickets sold per week
