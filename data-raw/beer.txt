@@ -1,0 +1,2 @@
+Does a beer with more carbohydrates tend to have more alcohol?
+To answer this question I measured the carbohydrates and percent alcohol from several different beer brands.
