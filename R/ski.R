@@ -17,8 +17,8 @@
 #' \describe{
 #' \item{miles}{miles of skiable terrain}
 #' \item{capacity}{number of vistors that could be taken per hour from the base of the mountain to the top via the resorts various lifts}
-#' \item{vistors} {number of tickets sold per week}
-#' \item{resort} {sort ID number}
+#' \item{vistors}{number of tickets sold per week}
+#' \item{resort}{sort ID number}
 #' }
 #'
 #' @references fictitious data set

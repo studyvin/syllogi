@@ -18,7 +18,7 @@
 #' \describe{
 #' \item{clubs}{clubs used for that round of golf}
 #' \item{course}{course for the round of golf}
-#' \item{score} {score or strokes for 18 holes}
+#' \item{score}{score or strokes for 18 holes}
 #'  }
 #'
 #' @references fictitious data set
