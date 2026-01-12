@@ -1,0 +1,11 @@
+What is the probability of getting a sore throat after surgery?
+After a patient had surgery they were asked do you have a sore throat?
+The duration of the surgery was recorded.
+The type of device used to secure the airway was also recored.
+
+duration: time of surgery in minutes
+type: 0= laryngeal mask airway, 1=tracheal tube
+sore: 0=no, 1=yes
+
+
+Categorical Data Analysis 2nd ED - Agresti

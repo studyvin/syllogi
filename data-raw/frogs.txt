@@ -1,0 +1,8 @@
+
+present: 1= yes, 0= no
+altitude: altitude of the location in meters
+distance: distance to water in meters
+NumPool: number of pools of water nearby
+avrain: average spring rainfall in centimeters
+meanmin: average spring minimum temperature in centigrade 
+meanmax: average spring maximum temperature in centigrade 

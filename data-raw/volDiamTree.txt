@@ -1,0 +1,5 @@
+  Many difference groups (lumber industry, ecologists, foresters,
+  etc.) benefit from being able to predict the volume of a tree just
+  by knowing its diameter. 
+  The diameter and the volume of shortleaf  pines was recorded. 
+  Bigger diameter trees have more volume but what  is the exact relationship? 

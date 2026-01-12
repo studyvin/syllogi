@@ -7,7 +7,8 @@
 #' @description Data.frame
 #'
 #' @docType data
-#'
+#' @keywords data
+#' 
 #' @usage data(alligatorDiet)
 #'
 #' @details
@@ -35,9 +36,7 @@
 #'
 #' @references Agresti, A. (2013) Categorical Data Analysis. 3rd Edition, John Wiley & Sons, Hoboken, New Jersey.
 #'
-#' @docType data
-#' @keywords data
-#'
+#' 
 #' @examples
 #' data("alligatorDiet", package='syllogi')
 #' str(alligatorDiet)
