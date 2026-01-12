@@ -1,8 +1,8 @@
 Package: syllogi
 Type: Package
 Title: Collection of Data Sets for Teaching Purposes
-Version: 1.0.4
-Date: 2025-01-10
+Version: 1.0.5
+Date: 2026-01-12
 Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
                      email = "studyvinstat@gmail.com"))
 Author: Jared Studyvin [aut, cre]
